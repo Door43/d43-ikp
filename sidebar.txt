@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ikp:home|Door43 (ikp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ikp|d43-ikp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ikp/archive/master.zip|d43-ikp.zip]]
+
+**Recent Changes**
+{{changes>ns = ikp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ikp|Ethnologue data]]
+
